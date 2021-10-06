@@ -7,9 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
     "dev": "node server.js",
-    "lite-server": "lite-server",
-    "build": "webpack --watch",
-    "heroku-postbuild": "webpack --config webpack.prod.js"
+    "lite-server": "lite-server"
   },
   "repository": {
     "type": "git",

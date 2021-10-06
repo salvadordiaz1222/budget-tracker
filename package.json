@@ -10,7 +10,6 @@
     "lite-server": "lite-server",
     "build": "webpack --watch",
     "heroku-postbuild": "webpack --config webpack.prod.js"
-
   },
   "repository": {
     "type": "git",

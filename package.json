@@ -21,17 +21,10 @@
   },
   "homepage": "https://github.com/coding-boot-camp/unit18hw#readme",
   "dependencies": {
-    "babel": "^6.23.0",
-    "babel-core": "^6.26.3",
-    "babel-preset-env": "^1.7.0",
     "compression": "^1.7.4",
     "express": "^4.17.1",
-    "glob": "^7.2.0",
     "lite-server": "^2.5.3",
     "mongoose": "^5.5.15",
-    "morgan": "^1.9.1",
-    "webpack": "^5.55.1",
-    "webpack-cli": "^4.8.0",
-    "webpack-pwa-manifest": "^4.3.0"
+    "morgan": "^1.9.1"
   }
 }
